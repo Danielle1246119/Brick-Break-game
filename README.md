@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
+# Brick Breaker
 
-<p>The folder above contains the screenshot image of the game as well as the code.</p>
-
-</body>
-</html>
+This is my version of this game. The folder here contains the code as well as the screenshot image from the game. 
